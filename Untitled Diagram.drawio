@@ -30,8 +30,8 @@
         <mxCell id="Ew2VsMfqONduqxhmsClT-17" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Action" vertex="1">
           <mxGeometry height="30" width="80" x="2320" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="Ew2VsMfqONduqxhmsClT-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CCE5FF,#CCE5FF);" value="" vertex="1">
-          <mxGeometry height="170" width="170" x="2150" y="370" as="geometry" />
+        <mxCell id="Ew2VsMfqONduqxhmsClT-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#CCE5FF);" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="2010" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
