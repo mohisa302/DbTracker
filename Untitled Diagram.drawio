@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2oqbHhrAs7UwT4ahwq_7">
-    <mxGraphModel dx="2180" dy="2675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew2VsMfqONduqxhmsClT-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(34, 34, 34)); font-size: 14px;&quot;&gt;&lt;b&gt;Actor Head&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(34, 34, 34)); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(Policy)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="105" x="2388.8799999999997" y="538.5" as="geometry" />
+          <mxGeometry height="60" width="105" x="2388.8799999999997" y="523.5" as="geometry" />
         </mxCell>
         <mxCell id="Ew2VsMfqONduqxhmsClT-9" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffcd28;rotation=90;gradientColor=none;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="110" width="145" x="1115.43" y="265.9200000000001" as="geometry" />
@@ -42,20 +42,18 @@
         <mxCell id="W477fWZGmgdNdEREbdat-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;strokeColor=#6c8ebf;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="110" width="177.5" x="2052.6299999999997" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="W477fWZGmgdNdEREbdat-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+        <mxCell id="W477fWZGmgdNdEREbdat-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2230.6299999999997" y="527" />
-              <mxPoint x="2304.6299999999997" y="527" />
-              <mxPoint x="2304.6299999999997" y="572" />
-              <mxPoint x="2382.6299999999997" y="572" />
+              <mxPoint x="2305" y="520" />
+              <mxPoint x="2305" y="550" />
             </Array>
-            <mxPoint x="2230.1299999999997" y="525" as="sourcePoint" />
-            <mxPoint x="2388.8799999999997" y="572.15" as="targetPoint" />
+            <mxPoint x="2230" y="520" as="sourcePoint" />
+            <mxPoint x="2388.8799999999997" y="550.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W477fWZGmgdNdEREbdat-5" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;LSTM&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;(1 layer,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;&amp;nbsp;hidden=64)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="75" width="190" x="2046.3799999999999" y="472.5" as="geometry" />
+          <mxGeometry height="75" width="173.62" x="2046.38" y="472.5" as="geometry" />
         </mxCell>
         <mxCell id="W477fWZGmgdNdEREbdat-8" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(122, 80, 192), rgb(0, 0, 0));&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Recurrent Actor-Critic Agent&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="2052.6299999999997" y="395" as="geometry" />
