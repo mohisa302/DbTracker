@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2oqbHhrAs7UwT4ahwq_7">
-    <mxGraphModel dx="4310" dy="3140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,10 +144,10 @@
             <mxPoint x="1044.6699999999998" y="740.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W477fWZGmgdNdEREbdat-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W477fWZGmgdNdEREbdat-32" value="">
+        <mxCell id="W477fWZGmgdNdEREbdat-86" edge="1" parent="1" source="gizCWdFiE7nYvDFp1Gvm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W477fWZGmgdNdEREbdat-32" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1664" y="699" />
+              <mxPoint x="1664.12" y="695" />
             </Array>
             <mxPoint x="1642.9299999999998" y="698.6200000000001" as="sourcePoint" />
             <mxPoint x="1722.93" y="500" as="targetPoint" />
@@ -186,7 +186,7 @@
           <mxGeometry height="191.31" width="224.06" x="1192.87" y="592.19" as="geometry" />
         </mxCell>
         <mxCell id="gizCWdFiE7nYvDFp1Gvm-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#D5E8D4);strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="177.04" width="146.18" x="1484.06" y="606.46" as="geometry" />
+          <mxGeometry height="160" width="146.18" x="1484.06" y="606.46" as="geometry" />
         </mxCell>
         <mxCell id="gizCWdFiE7nYvDFp1Gvm-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Predicted Index Matrix Z&#39;&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="122.93" x="1497.92" y="620" as="geometry" />
